@@ -2,4 +2,4 @@
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h1>Hello</h1>
+<h1>Oh Hello, I'm Tyizo!</h1>
