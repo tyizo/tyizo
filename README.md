@@ -14,7 +14,7 @@
 
 - 💬 Ask me about anything buddy.
 
-- 📫 How to reach me on instagram or twitter.
+- 📫 You can reach me on instagram or twitter.
 
 - ⚡ Fun fact coffee is my life 😎💖.
 </p>
