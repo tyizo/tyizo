@@ -16,4 +16,7 @@
 
 - ⚡ Fun fact coffee is my life 😎💖.
 </p>
+<hr>
 
+<h4 align="left">Tools:</h4>
+<img src=https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"  width="40" height="40"/>
