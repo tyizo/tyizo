@@ -1,17 +1,6 @@
 <h1 align="center">✨ Tyizo</h1>
 <h3 align="center">So, Hello I'm Tyizo ..</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyizo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&layout=compact&theme=tokyonigh)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align='left'>
-- 🌱 I’m currently diving deeper into exploring new technologies.
-
-- 👨‍💻 All of my projects are available at github.
-
-- 📫 You can reach me on instagram or twitter.
-
-- ⚡ Fun fact coffee is my life 😎💖.
-</p>
-<hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
