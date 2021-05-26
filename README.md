@@ -1,6 +1,5 @@
-<h1 align="center">✨ Tyizo</h1>
-<h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
-<h3 align="center">So, Hello I'm Tyizo ..</h3>
+<h2 align="center">Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+<h3 align="center">So, Hello I'm ✨ Tyizo.</h3>
 
 
 
