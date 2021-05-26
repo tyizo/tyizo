@@ -6,13 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&layout=compact&theme=tokyonigh)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align='left'>
- - 🔭 I’m currently working on my website.
-
 - 🌱 I’m currently diving deeper into exploring new technologies.
 
 - 👨‍💻 All of my projects are available at github.
-
-- 💬 Ask me about anything buddy.
 
 - 📫 You can reach me on instagram or twitter.
 
