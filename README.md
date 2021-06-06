@@ -15,4 +15,4 @@
   </tr>
 </table>
 <hr>
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tyizo.tyizo)
+![](https://komarev.com/ghpvc/?username=tyizo&color=blue)
