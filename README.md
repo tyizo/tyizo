@@ -25,5 +25,7 @@
 <a href="https://instagram.com/1xm0d" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Tyizo Instagram" height="30" width="40" />
  </a>
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" href="/" title="Tyizo#0770"/>
+  <div align="center" title="Tyizo#0770" href="/">
+    <img align="center" href="/" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40"  />
+  </div
 </p>
