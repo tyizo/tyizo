@@ -14,5 +14,4 @@
   </td>
   </tr>
 </table>
-<hr>
 ![](https://komarev.com/ghpvc/?username=tyizo&color=blue)
