@@ -2,8 +2,8 @@
 <h3 align="center">Hello, Nice to meet ya! I'm Tyizo ✨</h3>
 <h3 align="center">Langauges/Tools That I Use: </h3>
 <br>
-<img src="https://user-images.githubusercontent.com/69811071/127739364-247fdf24-19e5-49cf-a7a0-16b836ed83b5.png" width="50" height="50"> 
-<img align="left" src="https://user-images.githubusercontent.com/69811071/127739423-301cfe94-bf14-49ac-b4c1-009682459ebf.png" width="50" height="50"> 
+<img align="left" src="https://user-images.githubusercontent.com/69811071/127739364-247fdf24-19e5-49cf-a7a0-16b836ed83b5.png" width="50" height="50"> 
+<img  align="left" src="https://user-images.githubusercontent.com/69811071/127739423-301cfe94-bf14-49ac-b4c1-009682459ebf.png" width="50" height="50"> 
 <img align="left" src="https://user-images.githubusercontent.com/69811071/127739475-0968c759-2567-4973-a36b-9dfe106cefd8.png" width="50" height="50"> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50"> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50">
