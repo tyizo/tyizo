@@ -1,37 +1,6 @@
 <h2 align="center">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 <h3 align="center">Hello, Nice to meet ya! I'm Tyizo ✨</h3>
-<h3 align="center">Langauges/Tools That I Use: </h3>
-
 <br>
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26" >
-
-<img align="left" src="https://user-images.githubusercontent.com/69811071/127739423-301cfe94-bf14-49ac-b4c1-009682459ebf.png"  width="26"> 
-
-<img align="left" src="https://user-images.githubusercontent.com/69811071/127739475-0968c759-2567-4973-a36b-9dfe106cefd8.png"   width="26"> 
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"   width="26"> 
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  width="26">
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  width="26"> 
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"   width="26"> 
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"  width="26"> 
-                                                                                                                                                
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="26"> 
-                                                                                                                                                      
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"  width="26"> 
-                                                                                                                                                  
-<img align="left" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"   width="26"> 
-
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"   width="26">
-                                                                                                                                                
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  width="26">
-
-<br> <br>
-<br> <br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c">
 </p>
