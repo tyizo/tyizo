@@ -2,7 +2,7 @@
 <h3 align="center">So, Hello I'm ✨ Tyizo.</h3>
 <h3 align="center">Langauges/Tools That I Use: </h3>
 <br>
-<img src="![image](https://user-images.githubusercontent.com/69811071/127739364-247fdf24-19e5-49cf-a7a0-16b836ed83b5.png)" width="50" height="50"> 
+<img src="https://user-images.githubusercontent.com/69811071/127739364-247fdf24-19e5-49cf-a7a0-16b836ed83b5.png" width="50" height="50"> 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c">
 </p>
