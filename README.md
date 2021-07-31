@@ -14,8 +14,8 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="50" height="50"> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" width="50" height="50"> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="50" height="50"> 
-
-
+<br>
+<hr>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c">
 </p>
