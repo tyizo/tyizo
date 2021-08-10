@@ -43,9 +43,9 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <h1 align="left">🚀 Get In Touch!</h1>
 <p align="center">
   <a href="https://twitter.com/1xm0d" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Tyizo twitter" height="50" width="60" />
-  </a>
+<img src="https://img.icons8.com/color/48/000000/twitter.png"/>
+      </a>
 <a href="https://instagram.com/1xm0d" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Tyizo Instagram" height="50" width="60" />
- </a>
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
 </p>
