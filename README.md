@@ -10,6 +10,7 @@
 
 
 <h1 align="left">Languages, Technollogies and Libraries That I Know/Use: </h1>
+<img src="https://img.icons8.com/color/48/000000/javascript.png">
 
 
 <br>
