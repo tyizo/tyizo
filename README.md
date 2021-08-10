@@ -1,5 +1,5 @@
 <h1 align="left">Hello, Nice to meet ya! I'm Tyizo ✨.</h3>
-<p align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></p>
+<p align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"> Profile.</p>
 
 <br>
       <img src="https://discord.c99.nl/widget/theme-4/700355626852679820.png" align="center">
@@ -8,6 +8,7 @@
 
 <br>
 
+<h1 align="left">My Stats In Github
   <img src="https://github-readme-stats.vercel.app/api?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" align="left">
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
