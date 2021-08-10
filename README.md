@@ -48,3 +48,8 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <a href="https://instagram.com/1xm0d" target="blank">
 <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
+
+<a href="https://www.youtube.com/channel/UCN7-JVTptufQU80q_-blg-g" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+      
+      </a>
