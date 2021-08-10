@@ -2,6 +2,7 @@
 <p align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"> Profile.</p>
 
 <br>
+<span >Discord: </span>
       <img src="https://discord.c99.nl/widget/theme-4/700355626852679820.png" align="center">
       <br>
   <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c" >
