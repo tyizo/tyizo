@@ -3,7 +3,7 @@
 
 <br>
 <p align="left"> 
-      <img src="https://discord.c99.nl/widget/theme-4/700355626852679820.png" >
+      <img src="https://discord.c99.nl/widget/theme-4/700355626852679820.png" align="left">
   <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c" align="left">
 </p>
 
