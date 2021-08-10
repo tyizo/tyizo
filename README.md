@@ -8,14 +8,20 @@
 
 <br>
 
-<span align="left">My Stats In Github </span> 
+
+<h1 align="left">Languages, Technollogies and Librarys That I Know/Use: </h1>
+
+
+<br>
+
+
+<h1 align="left">😜 My Stats In Github: </h1> 
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" align="left">
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
   <br>
 
-<hr>
 <h1 align="left">🚀 Get In Touch!</h1>
 <p align="center">
   <a href="https://twitter.com/1xm0d" target="blank">
