@@ -1,5 +1,6 @@
-<h2 align="center">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
-<h3 align="center">Hello, Nice to meet ya! I'm Tyizo ✨</h3>
+<h3 align="left">Hello, Nice to meet ya! I'm Tyizo ✨.</h3>
+<h2 align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
+
 <br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c">
