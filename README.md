@@ -40,6 +40,10 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyizo&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
   <br>
 
+<h1 align="left">💖 Supporting Me!</h1>
+<span>If you wanna support me, I'll be so thankful to you nice person! and that's keep me going too. You can donate me from <a href="https://www.buymeacoffee.com/tyizo" target="_blank">here<a> ♥.</span>
+
+
 <h1 align="left">🚀 Get In Touch!</h1>
 
   <a href="https://twitter.com/1xm0d" target="blank" align="center">
