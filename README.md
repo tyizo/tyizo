@@ -2,9 +2,9 @@
 <p align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></p>
 
 <br>
-      <img src="https://discord.c99.nl/widget/theme-4/700355626852679820.png" align="left">
+      <img src="https://discord.c99.nl/widget/theme-4/700355626852679820.png" align="center">
       <br>
-  <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c" align="left">
+  <img src="https://komarev.com/ghpvc/?username=tyizo&color=1c1c1c" >
 
 <br>
 <p align="center">
