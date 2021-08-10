@@ -9,7 +9,7 @@
 <br>
 
 
-<h1 align="left">Languages, Technollogies and Librarys That I Know/Use: </h1>
+<h1 align="left">Languages, Technollogies and Libraries That I Know/Use: </h1>
 
 
 <br>
