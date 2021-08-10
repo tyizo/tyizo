@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://img.icons8.com/cotton/64/000000/laptop-coding.png"/> Hello, Nice to meet ya! I'm Tyizo ✨.</h1>
+<h1 align="left">Hello, Nice to meet ya! I'm Tyizo ✨.</h1>
 <p align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"> Profile.</p>
 
 <br>
