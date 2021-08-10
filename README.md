@@ -41,11 +41,10 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
   <br>
 
 <h1 align="left">🚀 Get In Touch!</h1>
-<p align="center">
-  <a href="https://twitter.com/1xm0d" target="blank">
+
+  <a href="https://twitter.com/1xm0d" target="blank" align="center">
 <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
       </a>
 <a href="https://instagram.com/1xm0d" target="blank">
 <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
-</p>
