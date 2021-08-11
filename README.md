@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>      
-<img src="https://img.icons8.com/color/48/000000/express.png"/>      
+<img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.e62b12d489.svg" width="50px" height="50px"/>      
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
@@ -34,6 +34,8 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <img src="https://img.icons8.com/color/48/000000/golang.png"/>      
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>    
 <img src="https://img.icons8.com/color/48/000000/git.png"/>      
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+      
 </span>
 <br>
 
