@@ -1,5 +1,5 @@
 <h1 align="left">Hello, Nice to meet ya! I'm Tyizo ✨.</h1>
-<h4 align="left">Welcome to my GitHub <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"> Profile.</h4>
+<h4 align="left">Welcome to my GitHub Profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px">.</h4>
 
 <br>
 <h5>Discord: </h5>
@@ -32,6 +32,8 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>      
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>   
 <img src="https://img.icons8.com/color/48/000000/golang.png"/>      
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>    
+<img src="https://img.icons8.com/color/48/000000/git.png"/>      
 </span>
 <br>
 
